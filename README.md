@@ -1,4 +1,4 @@
-### Hi there 👋
+### Kariu's Profile
 
 <!--
 **kariray/kariray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there. My nickname is Kariu.
+I'm currently living in Seoul.
+
+## Skills
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
