@@ -1,4 +1,4 @@
-### Kariu's Profile
+# Kariu's Profile
 
 <!--
 **kariray/kariray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,4 @@ I'm currently living in Seoul.
 
 ## Skills
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
+<img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/>
