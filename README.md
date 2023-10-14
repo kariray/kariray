@@ -1,4 +1,4 @@
-# Kariu's Profile
+# Yena's Profile
 
 <!--
 **kariray/kariray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there. My nickname is Kariu.
+Hi there. I'm Yena.
 I'm currently living in Seoul.
 
 ## Skills
